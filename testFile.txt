@@ -1,1 +1,3 @@
 This is a file we created on GitBash.
+
+Adding another new line.
